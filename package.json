@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/jakefb/fastcast-tracker#readme",
   "dependencies": {
-    "bittorrent-tracker": "^4.4.2"
+    "bittorrent-tracker": "^7.5.2"
   }
 }
