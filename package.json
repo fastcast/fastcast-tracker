@@ -4,14 +4,14 @@
   "main": "server/tracker.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jakefb/fastcast-tracker.git"
+    "url": "git://github.com/fastcast/fastcast-tracker.git"
   },
   "author": "Jacob Fulton Buckle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakefb/fastcast-tracker/issues"
+    "url": "https://github.com/fastcast/fastcast-tracker/issues"
   },
-  "homepage": "https://github.com/jakefb/fastcast-tracker#readme",
+  "homepage": "https://github.com/fastcast/fastcast-tracker#readme",
   "dependencies": {
     "bittorrent-tracker": "^8.0.7"
   }
