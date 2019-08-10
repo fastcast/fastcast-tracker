@@ -2,6 +2,9 @@
   "name": "fastcast-tracker",
   "version": "0.0.1",
   "main": "server/tracker.js",
+  "scripts": {
+    "start": "node server/tracker.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/fastcast/fastcast-tracker.git"
@@ -13,6 +16,6 @@
   },
   "homepage": "https://github.com/fastcast/fastcast-tracker#readme",
   "dependencies": {
-    "bittorrent-tracker": "^8.0.7"
+    "bittorrent-tracker": "^9.14.1"
   }
 }
